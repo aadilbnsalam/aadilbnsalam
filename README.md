@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aadilbnsalam
+- 👀 I’m interested in autonomous guided vehicle 
+- 🌱 I’m currently doing project under this.
+- 💞️ I’m looking for information which i car learn automation.
+- 💞️hope i can learn from this github community platform.
